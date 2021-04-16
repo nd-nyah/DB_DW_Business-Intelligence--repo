@@ -10,7 +10,7 @@ For sample table creations and configurations, create, alter, contraints, primar
 # EnterData_into_Tables.sql
 For data entering queries, e.g insert, update, insert by selection etc
 
-# GetData_from_Tables.sql
-For data retrieval queries, e.g tables join(inner, left, right, cross, full), aggregation, alias etc
+# GetData_from_Tables_within-a-server-and-linked_servers.sql
+For data retrieval queries, e.g tables join(inner, left, right, cross, full), aggregation, alias, linked servers query etc
 
 
